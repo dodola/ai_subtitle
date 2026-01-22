@@ -2,6 +2,8 @@
 
 A tool to extract hardcoded subtitles from videos using AI (Ollama + Qwen-VL).
 
+![](ai_subtitle_screen.png)
+
 ## Features
 
 - Upload video files
